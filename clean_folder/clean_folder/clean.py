@@ -1,7 +1,7 @@
 from pathlib import Path
 import shutil
 import sys
-import file_parser as parser
+import clean_folder.file_parser as parser
 import re
 
 #Normalize-----------------------------------------------------
